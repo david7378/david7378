@@ -14,7 +14,7 @@ Html5, Css, JavaScript, ReactJs, NodeJs, MongoDB, MySql, PostMan Git, GitHub, Ad
    📙 I'm currently learning NextJs, Cms.
   </li>
    <li>
-   💪 I am excited to be part of the nice teamwork.
+   💪 I am excited to be part of a nice teamwork.
     </li>
      <li>
     💬 Ask me about anything, I am happy to help!
