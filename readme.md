@@ -2,6 +2,8 @@
 
 Hi! Currently I work as front-end developer on my own. I build different solutions on ReactJs, by the way, I am a truly passionate of this technology. When I'm not developing you can find me learning something new, improving my dev skills. Besides that in my free time I enjoy flying small airplanes as a pilot ✈, I love it as much as coding.
 
+# Technologies that I use 
+Html5, Css, JavaScript, ReactJs, NodeJs, MongoDB, MySql, PostMan Git, GitHub, AdobePhotoshop
 # Talking about Personal Stuffs:
 
   <ul>
