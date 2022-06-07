@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david7378&label=Profile%20views&color=0e75b6&style=flat" alt="david7378" /> </p>
+Currently I am working as front-end developer on my own. I build different solutions on ReactJs, by the way, I am a truly passionate of this technology. When I'm not developing you can find me learning something new, improving my dev skills. Besides that in my free time I enjoy flying small airplanes as a pilot ✈, I love it as much as coding.
 
 - 🔭 I’m currently working on **personal projects.**
 
@@ -11,11 +12,11 @@
 
 - 💪 I am excited to be part of **a nice teamwork.**
 
-- 👨‍💻 All of my projects are available at [<span><a href="https://bright-churros-80b841.netlify.app/"> 📂My Portfolio</span>](<span><a href="https://bright-churros-80b841.netlify.app/"> 📂My Portfolio</span>)
+- 👨‍💻 All of my projects are available at [<span><a href="https://bright-churros-80b841.netlify.app/"> 📂My Portfolio</span>]
 
-- 🎧 I enjoy [listening to music.](listening to music.)
+- 🎧 I enjoy listening to music.
 
-- 💬 Ask me about anything **I am happy to help!**
+- 💬 Ask me about anything I am happy to help!
 
 - 📫 How to reach me **dannellmd@gmail.com**
 
