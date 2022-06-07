@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david7378&label=Profile%20views&color=0e75b6&style=flat" alt="david7378" /> </p>
 
-- 🔭 I’m currently working on **personal projects.**
+  Presently I work as front-end developer developing personal projects. I build different solutions on ReactJs, by the way, I am a truly passionate of this technology. When I'm not developing you can find me learning something new, improving my dev skills. Besides that in my free time I enjoy flying small airplanes as a pilot ✈, I love it as much as coding.
 
 - 🌱 I’m currently learning **NextJs, Cms**
 
@@ -15,7 +15,11 @@
 
 - 💬 Ask me about anything **I am happy to help!**
 
-- 📫 How to reach me **dannellmd@gmail.com**
+- 📫 How to reach me **dannellmd@gmail.com
+
+- 🎧 I enjoy listening to music. 
+
+- ✈ I love to fly planes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
