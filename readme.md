@@ -1,5 +1,3 @@
-[![MasterHead](https://skybrary.aero/sites/default/files/EFIS_of_a_Boeing_737.jpg)]
-
 <h1 align="center">Hi 👋, I'm David Perdomo</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
