@@ -12,7 +12,7 @@ Currently I am working as front-end developer on my own. I build different solut
 
 - 💪 I am excited to be part of **a nice teamwork.**
 
-- 👨‍💻 All of my projects are available at [<span><a href="https://bright-churros-80b841.netlify.app/"> 📂My Portfolio</span>]
+- 👨‍💻 All of my projects are available at <span><a href="https://bright-churros-80b841.netlify.app/"> 📂My Portfolio</span>
 
 - 🎧 I enjoy listening to music.
 
