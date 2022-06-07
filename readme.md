@@ -11,15 +11,15 @@
 
 - 💪 I am excited to be part of **a nice teamwork.**
 
-- 👨‍💻 All of my projects are available at [https://bright-churros-80b841.netlify.app/](https://bright-churros-80b841.netlify.app/)
+- 💻 All of my projects are available at [https://bright-churros-80b841.netlify.app/](https://bright-churros-80b841.netlify.app/)
 
 - 💬 Ask me about anything **I am happy to help!**
 
-- 📫 How to reach me **dannellmd@gmail.com
+- 📫 How to reach me **dannellmd@gmail.com**
 
-- 🎧 I enjoy listening to music. 
+- 🎧 I enjoy **listening to music.**
 
-- ✈ I love to fly planes.
+- ✈ I love **flying planes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
