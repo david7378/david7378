@@ -14,13 +14,13 @@ Currently I am working as front-end developer on my own. I build different solut
 
 - 👨‍💻 All of my projects are available at <span><a href="https://bright-churros-80b841.netlify.app/"> 📂My Portfolio</span>
 
-- 🎧 I enjoy listening to music.
+- 🎧 I enjoy **listening to music.**
 
-- 💬 Ask me about anything I am happy to help!
+- 💬 Ask me about anything **I am happy to help!**
 
 - 📫 How to reach me **dannellmd@gmail.com**
 
-- ✈ I love [flying planes.](flying planes.)
+- ✈ I love **flying planes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
