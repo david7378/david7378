@@ -3,23 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david7378&label=Profile%20views&color=0e75b6&style=flat" alt="david7378" /> </p>
 
-  Presently I work as front-end developer developing personal projects. I build different solutions on ReactJs, by the way, I am a truly passionate of this technology. When I'm not developing you can find me learning something new, improving my dev skills. Besides that in my free time I enjoy flying small airplanes as a pilot ✈, I love it as much as coding.
-
-- 🌱 I’m currently learning **NextJs, Cms**
-
-- 👯 I’m looking to collaborate on **ReactJs projects.**
+ I am currently working as a fullstack developer, where I have the opportunity to develop my skills and be part of an excellent work team.
+When I'm not developing, in my free time I enjoy flying small airplanes as a pilot ✈, playing some nice music, maybe reading a science fiction book 🛸 and spending time with friends.
 
 - 💪 I am excited to be part of **a nice teamwork.**
-
-- 💻 All of my projects are available at [https://bright-churros-80b841.netlify.app/](https://bright-churros-80b841.netlify.app/)
 
 - 💬 Ask me about anything **I am happy to help!**
 
 - 📫 How to reach me **dannellmd@gmail.com**
-
-- 🎧 I enjoy **listening to music.**
-
-- ✈ I love **flying planes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
