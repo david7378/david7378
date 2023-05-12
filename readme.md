@@ -3,12 +3,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david7378&label=Profile%20views&color=0e75b6&style=flat" alt="david7378" /> </p>
 
- I am currently working as a fullstack developer, where I have the opportunity to develop my skills and be part of an excellent work team.
-When I'm not developing, in my free time I enjoy flying small airplanes as a pilot ✈, playing some nice music, maybe reading a science fiction book 🛸 and spending time with friends.
+I am a person who is constantly learning and thinking about new ideas to make them come true. I am convinced that nothing is impossible in this life. I also enjoy sharing knowledge with my colleagues and friends, and learning from them.
+In my free time I enjoy flying small airplanes as a pilot ✈, playing some nice music as dj, maybe reading a science fiction book 🛸 and spending time with friends.
 
-- 💪 I am excited to be part of **a nice teamwork.**
+Technologies I have used: 
+- Javascript, Typescript HTML, CSS, Sass. - (3 years experience)
+- ReactJs - Redux - Thunk - Sagas - Context. - (3 years experience)
+- NextJs - (1 year experience)
+- Tailwind - MaterialUI. - (3 years experience)
+- NodeJs - Express - Mongoose. - (1 years experience)
+- Postman
+- Figma - AdobeXD - Adobe photoshop
+- Sendgrid
+- Jira
+- Git
 
-- 💬 Ask me about anything **I am happy to help!**
+If you have any questions, I will be happy to answer them!
 
 - 📫 How to reach me **dannellmd@gmail.com**
 
