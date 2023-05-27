@@ -3,22 +3,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david7378&label=Profile%20views&color=0e75b6&style=flat" alt="david7378" /> </p>
 
-I am a person who is constantly learning and thinking about new ideas to make them come true. I am convinced that nothing is impossible in this life. I also enjoy sharing knowledge with my colleagues and friends, and learning from them.
-In my free time I enjoy flying small airplanes as a pilot ✈, playing some nice music as dj, maybe reading a science fiction book 🛸 and spending time with friends.
+Hello! Thank you for taking the time to review my profile.
 
-Technologies I have used: 
-- Javascript, Typescript HTML, CSS, Sass. - (3 years experience)
-- ReactJs - Redux - Thunk - Sagas - Context. - (3 years experience)
-- NextJs - (1 year experience)
-- Tailwind - MaterialUI. - (3 years experience)
-- NodeJs - Express - Mongoose. - (1 years experience)
-- Postman
-- Figma - AdobeXD - Adobe photoshop
-- Sendgrid
-- Jira
-- Git
+I'm David, a highly motivated web developer with a strong passion for creating innovative solutions. I continuously seek out new challenges and thrive on finding unique approaches to overcome technological obstacles. With a dedication to ongoing learning, I invest my time and effort into honing my skills and staying at the forefront of web development trends.
 
-If you have any questions, I will be happy to answer them!
+Beyond my professional pursuits, I find joy in sharing knowledge and insights with colleagues and friends, fostering an environment of collaboration and growth. In my leisure time, you can find me soaring through the skies as a pilot, mixing electronic music as a DJ, diving into captivating science fiction books, or simply cherishing moments spent with friends.
+
+I am excited about the opportunity to contribute my expertise and enthusiasm to your esteemed company, and I look forward to the possibility of joining your dynamic team.
+
+Technologies I have experience with:
+-JavaScript, TypeScript, HTML, CSS, Sass (3 years of experience)
+-React.js, Redux, Thunk, Sagas, Context (3 years of experience)
+-Jest, Testing Library, Cypress (1 year of experience)
+-Next.js (1 year of experience)
+-Tailwind CSS, Material-UI (3 years of experience)
+-Node.js, Express, Mongoose (1 year of experience)
+-Postman
+-Figma, Adobe XD, Adobe Photoshop
+-SendGrid
+-Jira
+-Git
 
 - 📫 How to reach me **dannellmd@gmail.com**
 
