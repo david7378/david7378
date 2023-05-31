@@ -16,24 +16,10 @@ Technologies I have experience with:
   <li>-JavaScript, TypeScript, HTML, CSS, Sass (3 years of experience)</li>
    <li>-React.js, Redux, Thunk, Sagas, Context (3 years of experience)</li>
    <li>-Jest, Testing Library, Cypress (1 year of experience)</li>
-   <li></li>
-   <li></li>
-   <li></li>
-   <li></li> 
-   <li></li>
+   <li>-Next.js (1 year of experience)</li>
+   <li>-Tailwind CSS, Material-UI (3 years of experience)</li>
+   <li>-Node.js, Express, Mongoose (1 year of experience)</li>
 </ul>
-
--JavaScript, TypeScript, HTML, CSS, Sass (3 years of experience)
--React.js, Redux, Thunk, Sagas, Context (3 years of experience)
--Jest, Testing Library, Cypress (1 year of experience)
--Next.js (1 year of experience)
--Tailwind CSS, Material-UI (3 years of experience)
--Node.js, Express, Mongoose (1 year of experience)
--Postman
--Figma, Adobe XD, Adobe Photoshop
--SendGrid
--Jira
--Git
 
 - 📫 How to reach me **dannellmd@gmail.com**
 
