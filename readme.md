@@ -12,6 +12,17 @@ Beyond my professional pursuits, I find joy in sharing knowledge and insights wi
 I am excited about the opportunity to contribute my expertise and enthusiasm to your esteemed company, and I look forward to the possibility of joining your dynamic team.
 
 Technologies I have experience with:
+<ul>
+  <li>-JavaScript, TypeScript, HTML, CSS, Sass (3 years of experience)</li>
+   <li>-React.js, Redux, Thunk, Sagas, Context (3 years of experience)</li>
+   <li>-Jest, Testing Library, Cypress (1 year of experience)</li>
+   <li></li>
+   <li></li>
+   <li></li>
+   <li></li> 
+   <li></li>
+</ul>
+
 -JavaScript, TypeScript, HTML, CSS, Sass (3 years of experience)
 -React.js, Redux, Thunk, Sagas, Context (3 years of experience)
 -Jest, Testing Library, Cypress (1 year of experience)
