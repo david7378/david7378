@@ -13,15 +13,15 @@ I am excited about the opportunity to contribute my expertise and enthusiasm to 
 
 Technologies I have experience with:
 <ul>
-  <li>-JavaScript, TypeScript, HTML, CSS, Sass (3 years of experience)</li>
-   <li>-React.js, Redux, Thunk, Sagas, Context (3 years of experience)</li>
-   <li>-Jest, Testing Library, Cypress (1 year of experience)</li>
-   <li>-Next.js (1 year of experience)</li>
-   <li>-Tailwind CSS, Material-UI (3 years of experience)</li>
-   <li>-Node.js, Express, Mongoose (1 year of experience)</li>
+  <li>JavaScript, TypeScript, HTML, CSS, Sass (3 years of experience)</li>
+   <li>React.js, Redux, Thunk, Sagas, Context (3 years of experience)</li>
+   <li>Jest, Testing Library, Cypress (1 year of experience)</li>
+   <li>Next.js (1 year of experience)</li>
+   <li>Tailwind CSS, Material-UI (3 years of experience)</li>
+   <li>Node.js, Express, Mongoose (1 year of experience)</li>
 </ul>
 
-- 📫 How to reach me **dannellmd@gmail.com**
+-📫 How to reach me **dannellmd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
