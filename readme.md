@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david7378&label=Profile%20views&color=0e75b6&style=flat" alt="david7378" /> </p>
 
-Hello! Thank you for taking the time to review my profile.
+First of all, thank you for taking the time to review my profile.
 
 I'm David, a highly motivated web developer with a strong passion for creating innovative solutions. I continuously seek out new challenges and thrive on finding unique approaches to overcome technological obstacles. With a dedication to ongoing learning, I invest my time and effort into honing my skills and staying at the forefront of web development trends.
 
