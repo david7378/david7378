@@ -9,8 +9,6 @@ I am a web developer passionate about teamwork and collaboration. With experienc
 
 Beyond my professional pursuits, I find joy in sharing knowledge and insights with colleagues and friends, fostering an environment of collaboration and growth. In my leisure time, you can find me soaring through the skies as a pilot, mixing electronic music as a DJ, diving into captivating science fiction books, or simply cherishing moments spent with friends.
 
-I am excited about the opportunity to contribute my expertise and enthusiasm to your esteemed company, and I look forward to the possibility of joining your dynamic team.
-
 Technologies I have experience with:
 <ul>
   <li>JavaScript, TypeScript, HTML, CSS, Sass (3 years of experience)</li>
