@@ -19,7 +19,6 @@ Technologies I have experience with:
    <li>Node.js, Express, Mongoose (1 year of experience)</li>
 </ul>
 
--📫 How to reach me **dannellmd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
