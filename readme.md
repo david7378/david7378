@@ -7,7 +7,7 @@ First of all, thank you for taking the time to review my profile.
 
 I am a web developer passionate about teamwork and collaboration. With experience in successful projects where I have demonstrated my ability to adapt to new technologies and development environments. I am always eager to share knowledge and help others grow professionally. I have a strong desire for continuous learning and self-improvement on the latest trends and tools in the field. I am committed to offering my expertise and contributing to the success of web development teams.
 
-Beyond my professional pursuits, I find joy in sharing knowledge and insights with colleagues and friends, fostering an environment of collaboration and growth. In my leisure time, you can find me soaring through the skies as a pilot, mixing electronic music as a DJ, diving into captivating science fiction books, or simply cherishing moments spent with friends.
+-📫 How to reach me **dannellmd@gmail.com**
 
 Technologies I have experience with:
 <ul>
