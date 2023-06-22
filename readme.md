@@ -17,6 +17,7 @@ Technologies I have experience with:
    <li>Next.js (1 year of experience)</li>
    <li>Tailwind CSS, Material-UI (3 years of experience)</li>
    <li>Node.js, Express, Mongoose (1 year of experience)</li>
+  <li>Agile Methodologies (Scrum) - Experience applying Scrum principles and practices in software development projects.</li>
 </ul>
 
 
