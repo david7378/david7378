@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=david7378&label=Profile%20views&color=0e75b6&style=flat" alt="david7378" /> </p>
+
 Hello! 
 
 Currently I am working as a Fullstack developer, specializing in MERN stack with practical experience in React Native. I have a strong orientation toward finding solutions, staying current with best practices, and keeping an eye on emerging technologies. 
