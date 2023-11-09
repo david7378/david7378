@@ -4,7 +4,7 @@ Hello!
 Currently I am working as a Fullstack developer, specializing in MERN stack with practical experience in React Native. I have a strong orientation toward finding solutions, staying current with best practices, and keeping an eye on emerging technologies. 
 Additionally, I'm an entrepreneurial-minded individual actively exploring potential business opportunities.
 <hr/>
-Technologies I have worked with:
+Technical Skills:
 <ul>
   <li>
     <strong>Frontend:</strong>
