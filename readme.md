@@ -1,6 +1,35 @@
-As a MERN Fullstack developer, I have recently shifted my career focus. Now, I'm aiming to master DevOps and Cloud Engineering, combining a strong problem-solving mindset with a keen eye on industry best practices.
-<hr/>
-Technical Skills:
-<ul> <li> <span>DevOps and Cloud:</span> <ul> <li>CI/CD: Jenkins, Github Actions (1 year)</li> <li>Cloud Services: AWS EC2, S3, EBS, ECS, EKS, IAM (1 year)</li> </ul> </li> <li> <span>Infrastructure:</span> <ul> <li>Containerization: Docker (1 year)</li> <li>Orchestration: Kubernetes (1 year)</li> <li>Infrastructure as Code (IaC): Terraform (1 year)</li> <li>Ansible (1 year)</li> <li>Vagrant (1 year)</li> </ul> </li> <li> <span>Methodologies and Tools:</span> <ul> <li>Linux Arch - Ubuntu - Vim - Bash</li> <li>Linux Networking</li> <li>Agile (Scrum)</li> <li>Git (Version Control)</li> <li>MongoDB - Firebase</li> </ul> </li> <li> <span>Frontend:</span> <ul> <li>JavaScript, TypeScript, HTML, CSS, Tailwind (3 years)</li> <li>React, Context, Reducer, Redux (3 years)</li> <li>Next.js (1 year)</li> <li>Jest, Testing Library (1 year)</li> </ul> </li> <li> <span>Backend:</span> <ul> <li>Nest, Node.js, Express, Mongoose (2 years)</li> </ul> </li> </ul>
+I am a DevOps and SysAdmin professional committed to continuous learning, finding solutions, solving issues with a focus on best practices, and empowering team collaboration.
+### Technical Skills:
+
+### DevOps:
+- **CI/CD:** Github Actions, Jenkins (1 year)
+- **Cloud:** AWS EC2, S3, EBS, EKS, IAM, RDS Aurora, Networking (2 years)
+- **Containerization:** Docker (2 years)
+- **Orchestration:** Kubernetes, Rancher, Helm Chart (1 year)
+- **Infrastructure as Code (IaC):** Terraform, Vagrant (1 year)
+- **Testing:** Procedures for applications and networks
+- **Data Streaming:** Kafka (1 year)
+- **Search and Analytics:** Elasticsearch (1 year)
+
+### SysAdmin:
+- **Virtualization:** Proxmox, VMware ESXi
+- **Server Management:** AWS, OVH, Hetzner, Bare Metal Servers
+- **Networking:** Linux and Windows, MikroTik
+- **Storage Solutions:** RAID Disk, LVM, NFS, Ceph, TrueNAS
+- **Monitoring and Observability:** Prometheus, Grafana, cAdvisor
+- **Operating Systems:** Linux (Arch, Ubuntu, OpenSuse, CentOS)
+- **Databases:** AWS RDS Aurora, PostgreSQL, Mongo, Firebase
+- **Documentation:** Creating and maintaining technical documentation
+
+### Methodologies and Tools:
+- **Editors & Tools:** Vim, VS Code, Bash, DBeaver
+- **Agile Methodologies:** Scrum
+- **Git (Version Control):** Git
+
+### Fullstack Developer:
+- **Frontend:** React, Redux, TypeScript, HTML, CSS (3 years)
+- **Backend:** Node.js, Express (2 years)
+- **Languages:** Java, Python (1 year)
+
 
 -📫 How to reach me **dannellmd@gmail.com**
