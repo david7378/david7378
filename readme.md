@@ -1,30 +1,27 @@
-I am a DevOps and SysAdmin professional committed to continuous learning, finding solutions, solving issues with a focus on best practices, and empowering team collaboration.
+I’m someone who loves deploying and configuring servers to ensure they are fault tolerant, secure from network threats, and deliver great performance and availability.
 ### Technical Skills:
 
 ### DevOps:
-- **CI/CD:** Github Actions, Jenkins (1 year)
-- **Cloud:** AWS EC2, S3, EBS, EKS, IAM, RDS Aurora, Networking (2 years)
-- **Containerization:** Docker (2 years)
-- **Orchestration:** Kubernetes, Rancher, Helm Chart (1 year)
-- **Infrastructure as Code (IaC):** Terraform, Vagrant (1 year)
-- **Testing:** Procedures for applications and networks
-- **Data Streaming:** Kafka (1 year)
-- **Search and Analytics:** Elasticsearch (1 year)
+  - **Orchestration:** Kubernetes, Docker, Rancher, Helm.
+  - **Web Servers:** Nginx, Apache Tomcat, Varnish.
+  - **Cloud:** Azure, AWS (EC2, S3, EBS, EKS, IAM, RDS).
+  - **CI/CD:** Github Actions, Jenkins, Azure DevOps, ArgoCD.
+  - **Infrastructure:** Terraform, Ansible, Vagrant.
+  - **Data and Analytics:** Kafka, Elasticsearch.
 
 ### SysAdmin:
-- **Virtualization:** Proxmox, VMware ESXi
-- **Server Management:** AWS, OVH, Hetzner, Bare Metal Servers
-- **Networking:** Linux and Windows, MikroTik
-- **Storage Solutions:** RAID Disk, LVM, NFS, Ceph, TrueNAS
-- **Monitoring and Observability:** Prometheus, Grafana, cAdvisor
-- **Operating Systems:** Linux (Arch, Ubuntu, OpenSuse, CentOS)
-- **Databases:** AWS RDS Aurora, PostgreSQL, Mongo, Firebase
-- **Documentation:** Creating and maintaining technical documentation
+  - **Virtualization:** Proxmox, VMware ESXi.
+  - **Server Management:** AWS, OVH, Hetzner, Bare Metal.
+  - **Networking:** MikroTik, OSI Model, TCP/IP, BGP, OSPF, Cisco, pfSense.
+  - **Storage:** RAID, LVM, NFS, Ceph, TrueNAS.
+  - **Monitoring:** Prometheus, Grafana, OpenTelemetry, cAdvisor.
+  - **Operating Systems:** Linux (Arch, Ubuntu, Debian).
+  - **Databases:** AWS RDS Aurora, PostgreSQL, Mongo, Firebase.
 
 ### Methodologies and Tools:
-- **Editors & Tools:** Vim, VS Code, Bash, DBeaver
-- **Agile Methodologies:** Scrum
-- **Git (Version Control):** Git
+  - **Editors & Tools:** Vim, VS Code, Bash, DBeaver.
+  - **Agile Methodologies:** Scrum.
+  - **Git:** Version Control.
 
 ### Fullstack Developer:
 - **Frontend:** React, Redux, TypeScript, HTML, CSS (3 years)
